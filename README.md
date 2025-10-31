@@ -57,7 +57,7 @@ Wireframes can vary in fidelity - how much detail they include.
 
 ## Type of Wireframe Used in the Example
 
-The example shown here is a high fidelity wireframe, as it does not just focus on layout and flow but also design specifics. It includes detailed visual elements such as colors, typography, images, and layout spacing that closely resemble the final product. This type of wireframe goes beyond simple structure and focuses on the actual user interface design, often incorporating interactive components like clickable buttons and navigation flows. High-fidelity wireframes are typically created later in the design process to present realistic visuals, conduct usability testing, and guide developers during implementation.
+The example shown [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a high fidelity wireframe, as it does not just focus on layout and flow but also design specifics. It includes detailed visual elements such as colors, typography, images, and layout spacing that closely resemble the final product. This type of wireframe goes beyond simple structure and focuses on the actual user interface design, often incorporating interactive components like clickable buttons and navigation flows. High-fidelity wireframes are typically created later in the design process to present realistic visuals, conduct usability testing, and guide developers during implementation.
 
 ## Wireframing Tools
 
@@ -108,9 +108,3 @@ By moving the button directly onto the booking confirmation page (based on wiref
 The design change prevented confusion and reduced customer support requests.
 
 Developers implemented the feature correctly the first time, avoiding rework.
-
-## Conclusion
-
-Wireframing serves as a visual guide and communication tool that ensures alignment between designers, developers, and stakeholders.
-It identifies usability issues early, leading to a more intuitive, user-friendly, and efficient final product.
-
